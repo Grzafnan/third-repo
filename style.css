@@ -8,3 +8,7 @@ p{
   color: red;
   text-align: justify;
 }
+
+img {
+  width: 400px;
+}
