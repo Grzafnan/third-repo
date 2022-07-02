@@ -1,5 +1,7 @@
 h1 {
   color: #0aff1f;
+  width: 200px;
+  border: 3px solid red;
 }
 
 p{
